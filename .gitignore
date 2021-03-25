@@ -1,5 +1,4 @@
 .DS_Store
-.env
 .flaskenv
 *.pyc
 *.pyo
@@ -18,6 +17,7 @@ docs/_build/
 __pycache__
 
 TODO.txt
+sample*.yml
 
 # Coverage reports
 htmlcov/
