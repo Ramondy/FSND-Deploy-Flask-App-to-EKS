@@ -20,7 +20,7 @@ LOG_LEVEL = os.environ.get('LOG_LEVEL', 'INFO')
 def _logger():
     '''
     Setup logger format, level, and handler.
-    useless comment
+    --
 
     RETURNS: log object
     '''
